@@ -9,5 +9,17 @@ The log of my #100DaysOfCode challenge. Started on [July 28, Wednesday, 2021].
 
 ### R1D2
 
-#D
-Learned to use git and GitHub properly.
+#Day 1 - 1 Aug 2021
+
+#Day 2
+
+#Day 3
+
+#Day 4
+#Day 5
+#Day 6
+#Day 7
+#Day 8
+
+#Day 9 - 9 Aug 2021
+#Took part in Codeforces contest and solved 2 problems.
